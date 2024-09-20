@@ -20,7 +20,7 @@
 
 * 💬 Want to know more? Send me a “Hi” and let’s talk together!
  
-* 📚 I’m currently learning Power BI, Python, ETL, Machine Learning
+* 📚 I’m currently learning Power BI, Python, ETL, Machine Learning, Data Science and analytics.
   
 <br>
 
