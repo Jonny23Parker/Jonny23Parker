@@ -27,6 +27,7 @@
 ## You can find me too on   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas23siqueira)
 
 <br>
+
   
   ## skills and knowledge
   [![My Skills](https://skillicons.dev/icons?i=py,r,vscode,js,html,css,ts,anaconda,docker,cloudflare,figma,matlab,mongodb,nodejs,notion,angular,obsidian,postman,eclipse,java,visualstudio,sketchup,wordpress)](https://skillicons.dev)
